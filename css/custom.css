@@ -47,5 +47,27 @@
   
 /* Publications */
 .publication-item {
-    margin-bottom: 2%;
+    margin-bottom: 0%;
+    font-weight: 500;
+}
+
+a:link {
+  color: #5484bd;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color:  #5484bd;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+strong {
+  font-weight: 600;
+}
+
+.authors {
+  font-size: 0.9em;
+  margin-bottom: -2%;
 }
