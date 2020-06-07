@@ -49,6 +49,11 @@
 .publication-item {
     margin-bottom: 0%;
     font-weight: 500;
+    font-size: 1.1em;
+}
+
+.talk-item {
+  margin-bottom: 2%;
 }
 
 a:link {
@@ -69,5 +74,5 @@ strong {
 
 .authors {
   font-size: 0.9em;
-  margin-bottom: -2%;
+  /* margin-bottom: -2%; */
 }
