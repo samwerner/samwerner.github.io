@@ -56,17 +56,19 @@
   margin-bottom: 2%;
 }
 
+
 a:link {
   color: #5484bd;
   background-color: transparent;
   text-decoration: none;
 }
-
+/*
 a:visited {
   color:  #5484bd;
   background-color: transparent;
   text-decoration: none;
 }
+*/
 
 strong {
   font-weight: 600;
